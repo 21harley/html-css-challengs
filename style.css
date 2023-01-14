@@ -39,22 +39,18 @@ body{
     place-items: center;
 }
 .card-iz__img{
-    width: 280px;
-    height: 280px;
+    width: 130px;
+    height: 130px;
     border-radius: 50%;
     background-image: url(./reto_css_2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: -170px;
+    background-position: -80px;
     background-clip: border-box;
-    transform: scale(0.50);
-    position: relative;
-    right: 62px;
-    top: -62px;
 }
 .card-iz__border{
-    width: 160px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     position: relative;
     left: 75px;
